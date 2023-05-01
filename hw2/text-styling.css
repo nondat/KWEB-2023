@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+.chapter-name {
+    font-weight: bold;
+}
+
+.horizontal-lists:nth-of-type(n+2) {
+    color: blue;
+}
+
+#current-chapter .chapter-name {
+    color: red;
+}
